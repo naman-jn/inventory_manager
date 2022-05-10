@@ -8,7 +8,7 @@ A Flutter project to manage stocks inventory and orders for a mobile store.
 <img width="812" alt="image" src="https://user-images.githubusercontent.com/67640051/167674918-bba73192-feda-4360-b23f-63634fa0dd22.png">
 
 
-#Team Members
+## Team Members
 
 Naman Jain (RA1911003010545)
 
