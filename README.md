@@ -11,5 +11,7 @@ A Flutter project to manage stocks inventory and orders for a mobile store.
 #Team Members
 
 Naman Jain (RA1911003010545)
+
 s.illakkiyah(RA1911003010563)
+
 Mehak Gupta(RA1911003010559)
